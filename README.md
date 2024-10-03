@@ -29,7 +29,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 2. What are two things about your project that you are proud of?
 
-   - I am proud of the code I wrote during the program specifically the startPosition method because I will be able to use thisi method in other projects to help set my painters starting position. I also really like the accuracy of my ladybug painting and how even though I could have choosen a more simple image I decided to do something a little different to challenge myself. Overall I am proud that I was able to develop and write the code without any external assisstance. 
+   - I am proud of the code I wrote during the program specifically the startPosition method because I will be able to use this method in other projects to help set my painters starting position. I also really like the accuracy of my ladybug painting and how even though I could have choosen a more simple image I decided to do something a little different to challenge myself. Overall I am proud that I was able to develop and write the code without any external assisstance. 
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
