@@ -8,7 +8,8 @@ public class NeighborhoodRunner {
     briana.paintBackground("green" , 16);
 //instantiates a new ladybug painter named anthony
     LadybugPainter anthony = new LadybugPainter();
-//allows anthony to start in the correct position to paint the ladybug in the middle of the canvas
+//allows anthony to start in the correct position to paint the ladybug in the 
+//middle of the canvas
     anthony.startPosition();
 //allows anthony to paint the body of the ladybug red
     anthony.paintBody("red");
